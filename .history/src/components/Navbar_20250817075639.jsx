@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='flex justify-between items-center px-4 sm:px-12 lg:px-24 xl:px-40 py-4
     sticky top-0 z-20 backdrop-blur-xl font-medium bg-white/50 dark:bg-gray-900/70'>
         
-        <img src='/logo.png' className='w-32 sm:w-40' alt=''/>
+        <img src='/dox.png' className='w-32 sm:w-40' alt=''/>
 
         <div className={`text-gray-700 sm:text-sm ${!sidebarOpen ? 'max-sm:w-0 overflow-hidden' :
         'max-sm:w-60 max-sm:pl-10'} max-sm:fixed top-0 bottom-0 right-0 max-sm:min-h-screen 

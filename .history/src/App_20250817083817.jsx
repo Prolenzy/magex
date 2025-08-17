@@ -7,7 +7,6 @@ import OurWork from './components/OurWork'
 import Teams from './components/Teams'
 import ContactUs from './components/ContactUs'
 import { Toaster } from 'react-hot-toast'
-import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -20,9 +19,9 @@ const App = () => {
       <OurWork />
       <Teams />
       <ContactUs />
-      <Footer />
+      <
     </div>
   )
 }
 
-export default App;
+export default App

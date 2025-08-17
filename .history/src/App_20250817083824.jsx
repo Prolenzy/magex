@@ -20,9 +20,9 @@ const App = () => {
       <OurWork />
       <Teams />
       <ContactUs />
-      <Footer />
+      <Footer
     </div>
   )
 }
 
-export default App;
+export default App
